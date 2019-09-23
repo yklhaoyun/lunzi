@@ -9,7 +9,9 @@
             "email":"765075970@QQ.com"
         }
     ],
-
+    "require-dev": {
+        "yklhaoyun/lunzi": "1.0.*"
+    },
     "autoload":{
         "files":[
             "1.php"
