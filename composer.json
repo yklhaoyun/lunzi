@@ -9,7 +9,7 @@
             "email":"765075970@QQ.com"
         }
     ],
-    "minimum-stability":"dev",
+
     "autoload":{
         "files":[
             "1.php"
@@ -21,3 +21,4 @@
         }
     }
 }
+//"minimum-stability":"dev",
