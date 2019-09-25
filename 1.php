@@ -9,4 +9,8 @@ function sb5($str = ""){
     echo $str."5555";
 }
 
+function sb6666($str=""){
+    echo $str.'66666';
+}
+
 ?>
